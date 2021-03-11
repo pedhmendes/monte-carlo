@@ -1,6 +1,6 @@
 # monte-carlo
 -- Monte Carlo --
 
-Códigos realizados para a cadeira de Monte Carlo.
+Projetos da cadeira de Monte Carlo.
 
-Performed codes for Monte Carlo class.
+Projects of Monte Carlo class.

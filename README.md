@@ -1,6 +1,5 @@
-# monte-carlo
--- Monte Carlo --
-
-Projetos da cadeira de Monte Carlo.
+# Monte Carlo
 
 Projects of Monte Carlo class.
+
+All comments are in portuguese.

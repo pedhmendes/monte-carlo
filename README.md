@@ -9,7 +9,7 @@ Done with my colleagues, Gabriela Oliveira and João Mesquita. The Jupyter Noteb
 
 
 ### Ising Model
-In Ising's folder can be found different forms to simulate the Ising Model. There's four codes: (1) simple, (2) without matrix, (3) with matrix and (4) bi array. The (1) simple code is the best one, is faster and can be easylly understand. I used the simple in my research, more info [here](https://github.com/pedhmendes/spin-systems-ic). The one (2) without matrix evaluate the energy variation in every step, is not the best way. (3) with matrix code I stored the topology of my system. The last one (4), bi array, uses bidimensional array this one runs very low. 
+In Ising's folder can be found different forms to simulate the Ising Model. There's four codes: (1) simple, (2) without matrix, (3) with matrix and (4) bi array. The (1) simple code is the best one, is faster and can be easylly understand. I used the simple in my research, more info [here](https://github.com/pedhmendes/spin-systems-ic). The one (2) without matrix evaluate the energy variation in every step, is not the best way. (3) with matrix code I stored the topology of my system. The last one (4), bi array, uses bidimensional array, this one runs very slow. 
 
 The ones with GSL flag in the end uses this C library, you can read more [here](https://github.com/pedhmendes/gsl).
 

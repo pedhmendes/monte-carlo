@@ -18,7 +18,7 @@ There is also available the script to run *n* times, the execution times files, 
 ### Potts Model
 In Potts's folder can be found 4 codes for different simulation of Potts Model. There are two algorithms, metropolis and heat bath, and they are indicated in the code name. Also there are two versions, the ones with *if* and the ones with the *matrix*. The first ones are less optimized, they use a lot of if/else lines. The second ones are best, they do not have that much of if because they use a identity matrix that handle the comparissions we want to do. 
 
-We did a wiki for this project, with my colleagues Caetano Slaviero and João Mesquita. You can find the wiki (in portuguese) in this [link](https://fiscomp.if.ufrgs.br/index.php/Modelo_de_Potts_2D). 
+We did a wiki for this project, Caetano Slaviero and João Mesquita and I. You can find the wiki (in portuguese) in this [link](https://fiscomp.if.ufrgs.br/index.php/Modelo_de_Potts_2D). 
 
 There is also available the script to run *n* times, for different *q* states and temperatures. And our usual library with MC functions can be found in the folder as well.
 
